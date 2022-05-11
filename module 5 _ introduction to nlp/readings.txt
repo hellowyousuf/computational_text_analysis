@@ -1,1 +1,7 @@
 
+Readings:
+
+  Chapter 1 and 2:
+  Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.".
+  
+  Spacy Parts of Speech tagging: https://spacy.io/usage/linguistic-features
