@@ -1,1 +1,10 @@
 
+Readings:
+
+  Chapters 5 and 6 Of:
+  Bengfort, B., Bilbro, R., & Ojeda, T. (2018). Applied text analysis with python: enabling
+  language-aware data products with machine learning. O'Reilly Media.
+  (Note: ebook available for free on library.unm.edu)
+
+  Chapter 6 Of:
+  NLTK book. https://www.nltk.org/book/ch06.html
