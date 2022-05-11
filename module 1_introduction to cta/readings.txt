@@ -1,1 +1,13 @@
-What is computational text analysis?
+Readings:
+
+DiMaggio, P. (2015). Adapting computational text analysis to social science (and vice versa).
+Big Data & Society, 2(2), 2053951715602908.
+
+Grimmer, J., & Stewart, B. M. (2013). Text as data: The promise and pitfalls of automatic
+content analysis methods for political texts. Political Analysis, 21(3), 267-297.
+
+Nelson, L. K. (2020). Computational grounded theory: A methodological framework.
+Sociological Methods & Research, 49(1), 3-42.
+
+Tausczik, Y. R., & Pennebaker, J. W. (2010). The psychological meaning of words: LIWC and
+computerized text analysis methods. Journal of Language and Social Psychology, 29(1), 24-54.
