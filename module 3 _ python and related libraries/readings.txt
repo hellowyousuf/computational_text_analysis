@@ -1,1 +1,9 @@
 
+Important Websites:
+
+	https://www.python.org/;
+	https://www.anaconda.com/;
+	https://pandas.pydata.org/;
+	https://www.nltk.org/;
+	https://spacy.io/;
+	https://docs.python.org/3/library/re.html
