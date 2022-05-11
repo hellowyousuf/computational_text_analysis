@@ -1,2 +1,2 @@
 # computational_text_analysis
- This is a graduate course for non-engineering students interested in computational text analysis 
+ Codes and data for computational text analysis used in a graduate course for non-engineering students.
