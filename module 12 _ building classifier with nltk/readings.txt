@@ -1,1 +1,5 @@
 
+Reading:
+
+  Chapter 6: 
+  Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with python. O'Reilly Media. Available at: NLTK Book. https://www.nltk.org/book/ch06.html
