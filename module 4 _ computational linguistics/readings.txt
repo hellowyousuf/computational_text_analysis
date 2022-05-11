@@ -1,1 +1,5 @@
+Reading:
 
+  Ma, J. (2008). Automata in natural language processing. Technical Report 0834, Laboratoire de Recherche er Developpement, 1’Epita, France.
+  
+  Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.".
