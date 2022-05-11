@@ -1,1 +1,8 @@
 
+Readings:
+
+  1. Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84.
+
+  2. DiMaggio, P., Nag, M., & Blei, D. (2013). Exploiting affinities between topic modeling and the sociological perspective on culture: Application to   newspaper coverage of US government arts funding. Poetics, 41(6), 570-606.
+
+  3. Shahin, S. (2016). Right to be forgotten: How national identity, political orientation, and capitalist ideology structured a trans-Atlantic debate on information access and control. Journalism & Mass Communication Quarterly, 93(2), 360-382.
