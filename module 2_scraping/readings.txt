@@ -1,1 +1,4 @@
 
+Reading:
+
+Mitchell, R. (2018). Web scraping with Python: Collecting more data from the modern web. " O'Reilly Media, Inc.".
