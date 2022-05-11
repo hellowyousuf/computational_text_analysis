@@ -1,0 +1,4 @@
+
+NLTK Sentiment Analysis: https://www.nltk.org/howto/sentiment.html
+
+TextBlob: Sentiment Analysis: https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
