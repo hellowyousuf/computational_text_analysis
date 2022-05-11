@@ -1,1 +1,12 @@
 
+Readings:
+
+
+  1. Chapter 4 of the following book: [AVAILABLE ON LIBRARY.UNN.EDU]
+  Bengfort, B., Bilbro, R., & Ojeda, T. (2018). Applied text analysis with python: enabling
+  language-aware data products with machine learning (First). O'Reilly Media.
+
+  2. Chapters 1 and 2: 
+  Manning, C., & Schutze, H. (1999). Foundations of statistical natural language processing. MIT press.
+
+  3. Turney, P. D., & Pantel, P. (2010). From frequency to meaning: Vector space models of semantics. Journal of Artificial Intelligence Research, 37, 141-188.
