@@ -7,3 +7,13 @@ Important Websites:
 	https://www.nltk.org/;
 	https://spacy.io/;
 	https://docs.python.org/3/library/re.html
+
+
+Python Basics:
+	Home: https://www.w3schools.com/python/default.asp
+	Intro: https://www.w3schools.com/python/python_intro.asp
+	Syntax: https://www.w3schools.com/python/python_syntax.asp
+	Comments: https://www.w3schools.com/python/python_comments.asp
+	Variables: https://www.w3schools.com/python/python_variables.asp
+	Functions: https://www.w3schools.com/python/python_functions.asp
+	Modules: https://www.w3schools.com/python/python_modules.asp
