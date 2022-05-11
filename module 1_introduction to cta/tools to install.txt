@@ -1,0 +1,6 @@
+
+Please download and install the following packages:
+
+1. Anaconda package management and deployment system: https://www.anaconda.com/products/distribution
+
+2. AntConc: A Text Analysis Toolkit: http://www.laurenceanthony.net/software/antconc/
