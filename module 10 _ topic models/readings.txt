@@ -1,1 +1,10 @@
 
+Readings:
+
+  1. Blei, D. M., & Lafferty, J. D. (2006, June). Dynamic topic models. In Proceedings of the 23rd international conference on Machine learning (pp. 113-120).
+  
+  2. Mcauliffe, J., & Blei, D. (2007). Supervised topic models. Advances in neural information processing systems, 20.
+  
+  3. Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), 905-949.
+
+  4. Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
