@@ -1,1 +1,8 @@
 
+Reading:
+  
+  Chapter 3:
+  Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.".
+  
+  Appendix A: Corpus Creation and Preprocessing
+  Bleich, E., Callison, J. P., Edwards, G. G., Fichman, M., Hoynes, E., Jabari, R., & van der Veen, A. M. (2021). The good, the bad, and the ugly: A corpus   linguistics analysis of US newspaper coverage of Latinx, 1996–2016. Journalism, 22(6), 1522-1539.
